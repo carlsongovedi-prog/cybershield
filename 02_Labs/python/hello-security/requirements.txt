@@ -1,0 +1,3 @@
+# CyberShield Hello Security Lab
+# No third-party dependencies currently required.
+# Python standard library modules are used.
