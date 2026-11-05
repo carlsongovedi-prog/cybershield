@@ -1,0 +1,5 @@
+Verified at (UTC): 2026-11-05T07:33:01.710587+00:00
+Evidence: evidence/invoice_original.txt
+Expected: 240b299d53c9d82243a6cc020baf284f6bb6c1e1af02772878b9a60d2ce66d77
+Calculated: 240b299d53c9d82243a6cc020baf284f6bb6c1e1af02772878b9a60d2ce66d77
+INTEGRITY CHECK: PASS
